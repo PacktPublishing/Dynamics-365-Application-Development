@@ -18,7 +18,7 @@ Request: GET [Organization URI] /api/data/v9.0/contacts?
 
 This book assumes that the reader has some basic knowledge of Dynamics CRM and would like to learn the new features introduced in Dynamics 365. However, someone who hasn’t worked with the previous versions and is starting afresh with Dynamics 365 will equally benefit from it. Developers, customizers, administrators, and power users will be able to enhance their skills by learning about the latest features and changes introduced in Dynamics 365.
 
-You can try out all the features and topics mentioned in the book using a trial instance of Dynamics 365 (https:/​/​trials.​dynamics.​com/​) along with the free community edition of Visual Studio 2017 (https:/​/​www.​visualstudio.​com/​vs/​community/​). Some of the topics covered do not apply to the on-premise version of Dynamics 365
+You can try out all the features and topics mentioned in the book using a trial instance of Dynamics 365 (https://trials.dynamics.com/) along with the free community edition of Visual Studio 2017 (https://www.visualstudio.com/vs/community/). Some of the topics covered do not apply to the on-premise version of Dynamics 365
 
 ## Related Products
 * [Microsoft Dynamics 365 Enterprise Edition – Financial Management](https://www.packtpub.com/application-development/microsoft-dynamics-365-enterprise-edition-financial-management?utm_source=github&utm_medium=repository&utm_campaign=9781788839297)
